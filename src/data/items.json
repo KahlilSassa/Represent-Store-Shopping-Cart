@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Puffer Jacket",
+    "price": 450,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0587/5816/8785/products/3_db14eae4-8574-4fbb-8271-ea35ef68f384_900x.jpg?v=1632931975"
+  },
+  {
+    "id": 2,
+    "name": "Blank Shorts",
+    "price": 125,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0587/5816/8785/products/2_f9d290cf-41d4-4bc9-978a-8f3c7bd5fb32_900x.jpg?v=1635958839"
+  },
+  {
+    "id": 3,
+    "name":  "Blank Sweater",
+    "price": 155,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0587/5816/8785/products/2_663c5127-e62e-4d27-9025-2b0b6b601d8e_720x.jpg?v=1649953493"
+  },
+  {
+    "id": 4,
+    "name": "Varsity Jacket",
+    "price": 550,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0587/5816/8785/products/3_a6a85798-7367-495f-911e-ff003ed27292_720x.jpg?v=1637940389"
+  },
+  
+  {
+    "id": 5,
+    "name": "Overshirt",
+    "price": 310,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0587/5816/8785/products/FW21MODELECOMDROP1_0062_FW21MODELECOM7630_720x.jpg?v=1632355433"
+  },
+  {
+    "id": 6,
+    "name": "Puffer Gilet",
+    "price": 270,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0587/5816/8785/products/2_c05307a6-a526-4d0b-bfa2-730f13d2d0ea_720x.jpg?v=1637940389"
+  }
+]
