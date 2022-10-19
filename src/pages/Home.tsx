@@ -2,7 +2,10 @@ import Carousel from 'react-bootstrap/Carousel';
 
 
 export function Home() {
-  return (
+  return ( <>
+
+
+  <br></br>
     <Carousel>
       <Carousel.Item>
         <img
@@ -42,5 +45,6 @@ export function Home() {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    </>
   );
 }
